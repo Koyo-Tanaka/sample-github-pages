@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://macrotechjp-org.github.io/cloud-oss-docs/"
+baseURL = "https://macrotechjp.github.io/sample-github-pages/"
 # theme
 theme = "dot"
 # site title
