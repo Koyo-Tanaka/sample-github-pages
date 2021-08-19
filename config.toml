@@ -7,7 +7,6 @@ theme = "dot"
 title = "Cloud OSS Docs"
 # disable language
 disableLanguages = []
-publishDir = "docs"
 # google analytics
 googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
